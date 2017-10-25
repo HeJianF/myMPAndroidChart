@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="BookStore"> </dbname>
+    <version value="2"> </version>
+
+    <list>
+        <mapping class="com.e.dynamicaldataadding.DataBean.EnteryBean"> </mapping>
+       <!-- <mapping class="com.e.dynamicaldataadding.DataBean.Pass1"> </mapping>
+        <mapping class="com.e.dynamicaldataadding.DataBean.Pass2"> </mapping>
+        <mapping class="com.e.dynamicaldataadding.DataBean.Pass3"> </mapping>
+        <mapping class="com.e.dynamicaldataadding.DataBean.Pass4"> </mapping>
+        <mapping class="com.e.dynamicaldataadding.DataBean.DateBean"> </mapping>-->
+    </list>
+</litepal>
